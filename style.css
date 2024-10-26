@@ -46,23 +46,24 @@ body{
 }
 
 .unit-section p{
-    font-size: 15px;
+    font-size: 13px;
     color: #3c0000;
 }
 
 #input-btn{
-    width: 95px;
-    height: 30px;
+    width: 100px;
+    height: 40px;
     margin: 5px auto;
     border: none;
     border-radius: 5px;
     background-color: #fff5ed;
     color: #ad6a64;
-    font-weight: bold;
+    font-weight: bolder;
+    font-size: 16px;
 }
 
 #input-field{
-    width: 95px;
+    width: 150px;
     height: 70px;
     margin: 5px auto;
     background-color: #ff9470;
