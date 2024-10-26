@@ -10,7 +10,7 @@ The Unit Converter is a local chrome extension that converts for you a value tha
 you can test the web version of Unit Converter via this link : **`https://amir-unit-converter.netlify.app/`**
 
 ## **Installation & Usage**
-1. Clone the repository: **`git clone [https://github.com/amir-brd/Unit-Converter.git](https://github.com/amir-brd/Unit-Converter.git)`**
+1. Clone the repository: **`git clone https://github.com/amir-brd/Unit-Converter.git`**
 2. Open the project in your favorite code editor.
 3. Modify the source code to fit your needs.
 
